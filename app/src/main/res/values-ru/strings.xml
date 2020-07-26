@@ -1,0 +1,19 @@
+<resources>
+    <string name="night">ночь</string>
+    <string name="morning">утро</string>
+    <string name="eve">вечер</string>
+    <string name="day">день</string>
+    <string name="sign_in_google">Войти с Google</string>
+    <string name="weather">Показать Погоду</string>
+    <string name="logged_in">Вы вошли как:</string>
+    <string name="city_hint">Введите Город…</string>
+    <string name="specify_city">Укажите Город</string>
+    <string name="auth_fail">Ошибка аутентификации</string>
+    <string name="log_out">Выйти</string>
+    <string name="no_weather_found">Данные о погоде не доступны</string>
+
+    <string-array name="weather_now">
+        <item>час</item>
+        <item>день</item>
+    </string-array>
+</resources>

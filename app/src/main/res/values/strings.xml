@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name" translatable="false">WeatherForecast</string>
+    <string name="hourly" translatable="false">http://api.openweathermap.org/data/2.5/forecast</string>
+    <string name="daily" translatable="false">http://api.openweathermap.org/data/2.5/forecast/daily</string>
+    <string name="icon_url" translatable="false">http://openweathermap.org/img/wn/</string>
+    <string name="units" translatable="false">metric</string>
+    <string name="lang_ru" translatable="false">ru</string>
+    <string name="lang_en" translatable="false">en</string>
+    <string name="appid" translatable="false">c8eeac2237027c49d91352c22e2afef1</string>
+
+    <string name="night">night</string>
+    <string name="morning">morning</string>
+    <string name="eve">evening</string>
+    <string name="day">day</string>
+    <string name="sign_in_google">Sign in with Google</string>
+    <string name="weather">Show Weather</string>
+    <string name="logged_in">Logged in as:</string>
+    <string name="city_hint">Enter City…</string>
+    <string name="specify_city">Specify City</string>
+    <string name="auth_fail">Authentication failed</string>
+    <string name="log_out">Log out</string>
+    <string name="no_weather_found">No weather data available</string>
+
+    <string-array name="weather_now">
+        <item>hour</item>
+        <item>day</item>
+    </string-array>
+</resources>
